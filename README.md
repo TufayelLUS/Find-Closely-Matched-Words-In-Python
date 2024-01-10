@@ -29,7 +29,7 @@ else:
     print("Not matched)</pre>
 And that will do the trick.
 
-# pip command to install the libraries
+# Command
 <code>pip install fuzzywuzzy python-Levenshtein</code>
 
 # Need a software developer to automate your tasks?
